@@ -12,7 +12,7 @@ Carles Oriol - Barcelona 2020
 carlesoriol@gmail.com
 
 
-![Device picture](2020-08-23_13.png.png)
+![Device picture](2020-08-23_13-30.png)
 
 ## License
 [AGPL](https://choosealicense.com/licenses/agpl/)
